@@ -4,7 +4,7 @@ RENCANA BUAT BELAJAR WEB PROGRAMMING
 - CSS
 - BOOTSTRAP
 - JAVASCRIPT
-   +ES6
-   +Framework Javascript
-- Struktur Data dasar
+   + ES6
+   + Framework Javascript
+- Laravel
 - PHP
