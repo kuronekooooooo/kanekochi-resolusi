@@ -6,4 +6,5 @@ RENCANA BUAT BELAJAR WEB PROGRAMMING
 - JAVASCRIPT
    +ES6
    +Framework Javascript
+- Struktur Data dasar
 - PHP
