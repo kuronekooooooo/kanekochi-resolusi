@@ -8,3 +8,5 @@ RENCANA BUAT BELAJAR WEB PROGRAMMING
    +Framework Javascript
 - Struktur Data dasar
 - PHP
+  + Laravel
+- Python
