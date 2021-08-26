@@ -6,5 +6,8 @@ RENCANA BUAT BELAJAR WEB PROGRAMMING
 - JAVASCRIPT
    + ES6
    + Framework Javascript
-- Laravel
+   + React
+- Struktur Data dasar
 - PHP
+  + Laravel
+- Python
