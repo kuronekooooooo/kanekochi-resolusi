@@ -4,10 +4,10 @@ RENCANA BUAT BELAJAR WEB PROGRAMMING
 - CSS
 - BOOTSTRAP
 - JAVASCRIPT
-   + ES6
-   + Framework Javascript
-   + React
+   ^ Vue
+   ^ React
+   ^ Angular
 - Struktur Data dasar
-- PHP
-  + Laravel
+- PHP Frameworks
+  ^ Laravel
 - Python
