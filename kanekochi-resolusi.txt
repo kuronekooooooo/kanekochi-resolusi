@@ -4,5 +4,4 @@ Kanekochi Resolusi
 - Tidur Lebih Cepat dan Lebih Berkualitas
 - Berhenti Menunda Pekerjaan
 - Punya Rumah dan Mobil Sendiri
-- ganti laptop
-- ganti hp
+- Belajar back end
