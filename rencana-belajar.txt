@@ -1,0 +1,9 @@
+RENCANA BUAT BELAJAR WEB PROGRAMMING
+              Belajar
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
+   +ES6
+   +Framework Javascript
+- PHP
